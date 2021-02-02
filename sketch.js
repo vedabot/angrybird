@@ -62,5 +62,5 @@ function draw(){
     bird.display();
 
     platform.display()
-    platform2.display()
+ 
 }
